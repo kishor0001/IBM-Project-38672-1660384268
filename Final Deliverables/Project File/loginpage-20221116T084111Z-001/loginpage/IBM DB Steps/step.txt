@@ -1,0 +1,8 @@
+step1 - Search for Db2-0t
+step2 - Go to UI
+step3 - Go to Data on left side of window
+step4 - Go to Tables
+step5 - Click on WLB____
+step6 - Click on User
+step7 - Click on View Data
+step8 - Registered Users Data
